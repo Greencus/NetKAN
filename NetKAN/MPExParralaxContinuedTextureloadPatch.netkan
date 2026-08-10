@@ -2,7 +2,6 @@ identifier: MPExParallaxContinuedTextureloadPatch
 $kref: '#/ckan/spacedock/4475'
 tags:
   - config
-  - planet-pack
 depends:
   - name: ModuleManager
   - name: Kopernicus
