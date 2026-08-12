@@ -1,5 +1,6 @@
 identifier: KerbalEyelids
 $kref: '#/ckan/spacedock/4181'
+"license":      "MIT",
 install:
   - find: 'KerbalEyelids'
     install_to: GameData
