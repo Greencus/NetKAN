@@ -6,6 +6,8 @@ $kref: '#/ckan/spacedock/4446'
 depends:
   - name: TextureReplacer
   - name: KerbalEyelids
+conflicts:
+  - name: KSP2-Heads-Kerbals
 install:
   - find: 'KSP2 Heads - Humans'
     install_to: GameData
