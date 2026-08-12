@@ -1,0 +1,11 @@
+identifier: KSP2-Heads-Humans
+$kref: '#/ckan/github/bielbi6/KSP2-Heads'
+---
+identifier: KSP2-Heads-Humans
+$kref: '#/ckan/spacedock/4446'
+depends:
+  - name: TextureReplacer
+  - name: KerbalEyelids
+install:
+  - find: 'KSP2 Heads - Humans'
+    install_to: GameData
