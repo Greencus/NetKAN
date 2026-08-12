@@ -1,0 +1,5 @@
+identifier: KerbalEyelids
+$kref: '#/ckan/spacedock/4181'
+install:
+  - find: 'KerbalEyelids'
+    install_to: GameData
